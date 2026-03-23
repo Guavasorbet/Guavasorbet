@@ -24,19 +24,19 @@
 
 ---
 
-### 🛰️ TRANSMISSION_STATS
+### TRANSMISSION_STATS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Guavasorbet&show_icons=true&theme=chartreuse-dark&border_radius=10&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF4155&bg_color=0d0d0d" alt="Guavasorbet Stats" />
 </p>
 
-### 🛠️ TECH_STACK
+### TECH_STACK
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 📂 LOG_ENTRIES
+### LOG_ENTRIES
 - 🔭 I’m currently working on **Cyberpunk UI Design**
 - ⚡ Fun fact: **"High tech, low life."**
 
