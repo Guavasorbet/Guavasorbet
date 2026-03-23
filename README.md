@@ -1,4 +1,6 @@
-# ⚡ [SYSTEM_ONLINE] // Welcome, Guavasorbet
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Neuromancer+Loves+Guava+Sorbet" alt="Typing SVG" />
+</div>
 
 <p alighn="center">
   <img src="https://github.com/user-attachments/assets/6c811865-e826-4463-b221-460701c70f88" width="100%" alt="Video Project 4" />
@@ -16,7 +18,7 @@
 
 
 ### 📂 Directory: /root/guavasorbet/
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=false&vCenter=false&width=435&lines=REBOOTING+SYSTEM...;ENCRYPTING+DATA+STREAMS...;WELCOME+TO+THE+NEURAL+NETWORK.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=false&vCenter=false&width=435&lines=REBOOTING+SYSTEM...;ENCRYPTING+DATA+STREAMS...;WELCOME+TO+THE+NEURAL+NETWORK.)
 
 
 
@@ -24,7 +26,7 @@
 
 ### 🛰️ TRANSMISSION_STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guavasorbet&show_icons=true&theme=tokyonight&border_radius=10" alt="Guavasorbet Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guavasorbet&show_icons=true&theme=chartreuse-dark&border_radius=10&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF4155&bg_color=0d0d0d" alt="Guavasorbet Stats" />
 </p>
 
 ### 🛠️ TECH_STACK
@@ -37,3 +39,10 @@
 ### 📂 LOG_ENTRIES
 - 🔭 I’m currently working on **Cyberpunk UI Design**
 - ⚡ Fun fact: **"High tech, low life."**
+
+---
+
+### CONNECT
+<a href="https://www.linkedin.com/in/miguelmoralesr2d2">
+  <img src="https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" width="100" height="100"/>
+</a>
