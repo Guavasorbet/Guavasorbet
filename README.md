@@ -1,8 +1,19 @@
 # ⚡ [SYSTEM_ONLINE] // Welcome, Guavasorbet
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=distort&color=7000ff&height=200&section=header&text=GUAVASORBET&fontSize=70&fontColor=00ffff" alt="Cyber Banner" />
+<p alighn="center">
+  <img src="https://github.com/user-attachments/assets/6c811865-e826-4463-b221-460701c70f88" width="100%" alt="Video Project 4" />
 </p>
+
+<p align="center">
+  <video src="https://storage.googleapis.com/veo-video-generation/996515ba-3721-4d37-89ef-226e64303f0f.mp4" 
+         autoplay 
+         loop 
+         muted 
+         width="600px">
+  </video>
+</p>
+
+
 
 ### 📂 Directory: /root/guavasorbet/
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=false&vCenter=false&width=435&lines=REBOOTING+SYSTEM...;ENCRYPTING+DATA+STREAMS...;WELCOME+TO+THE+NEURAL+NETWORK.)
