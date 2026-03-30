@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Neuromancer+Loves+Guava+Sorbet" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6c811865-e826-4463-b221-460701c70f88" width="100%" alt="Video Project 4" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/867dae6a-7e9f-428e-894b-2a8c9c429f83" width="90%" alt="neuromancer hologram" />
+</div>
 
 ---
 
