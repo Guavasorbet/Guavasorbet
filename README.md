@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Neuromancer+Loves+Guava+Sorbet" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=98FF98&center=true&vCenter=true&width=700&lines=Neuromancer+Loves+Guava+Sorbet" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,20 +9,20 @@
 ---
 
 ### 📂 Directory: /root/guavasorbet/
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=false&vCenter=false&width=435&lines=REBOOTING+SYSTEM...;ENCRYPTING+DATA+STREAMS...;WELCOME+TO+THE+NEURAL+NETWORK.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=435&lines=REBOOTING+SYSTEM...;ENCRYPTING+DATA+STREAMS...;WELCOME+TO+THE+NEURAL+NETWORK.)
 <div align="center">
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=00FF41&repeat=false&width=700&lines=+%2F%2F+profile.bio+-+Clearance-level+%3D+public" alt="heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=700&lines=+%2F%2F+profile.bio+-+Clearance-level+%3D+public" alt="heading" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=00FF41&repeat=false&width=700&lines=A+padawan-level+neuromancer+who+strives+to+one+day+become+a+master+neuromancer" alt="bio1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=700&lines=A+padawan-level+neuromancer+who+strives+to+one+day+become+a+master+neuromancer" alt="bio1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=00FF41&repeat=false&width=700&lines=%E2%80%94learning+the+art+of+readiness%2C+security%2C+defense%2C+and+offense." alt="bio2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=700&lines=%E2%80%94learning+the+art+of+readiness%2C+security%2C+defense%2C+and+offense." alt="bio2" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=00FF41&repeat=false&width=700&lines=Ethical%2C+creative+investigator.+My+mission%3A+to+guarantee+confidentiality%2C" alt="bio3" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=700&lines=Ethical%2C+creative+investigator.+My+mission%3A+to+guarantee+confidentiality%2C" alt="bio3" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=00FF41&repeat=false&width=700&lines=to+maintain+integrity%2C+and+ensure+availability." alt="bio4" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=700&lines=to+maintain+integrity%2C+and+ensure+availability." alt="bio4" />
 
 </div>
 
