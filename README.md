@@ -29,9 +29,9 @@
 ---
 <div align="left">
 
-**TRANSMISSION_STATS**
+📊 **TRANSMISSION_STATS**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Guavasorbet&show_icons=true&theme=chartreuse-dark&border_radius=10&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF4155&bg_color=0d0d0d" alt="Guavasorbet Stats" />
+![Streak](https://streak-stats.demolab.com?user=Guavasorbet&theme=tokyonight&ring=98FF98&fire=98FF98&currStreakLabel=98FF98&sideLabels=98FF98&dates=98FF98&hide_border=true)
 
 ---
 
