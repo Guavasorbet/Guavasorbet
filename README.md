@@ -10,7 +10,7 @@
 ---
 
 ### 📂 Directory: /root/guavasorbet/
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=435&lines=REBOOTING+SYSTEM...;ENCRYPTING+DATA+STREAMS...;WELCOME+TO+THE+NEURAL+NETWORK.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=400&lines=REBOOTING+SYSTEM...;ENCRYPTING+DATA+STREAMS...;WELCOME+TO+THE+NEURAL+NETWORK.)
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=700&lines=+%2F%2F+profile.bio+-+Clearance-level+%3D+public" alt="heading" />
