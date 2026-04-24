@@ -34,6 +34,32 @@
 
 ---
 
+🧰 **TOOLS_TECHNOLOGIES**
+
+<img width="1440" height="880" alt="image" src="https://github.com/user-attachments/assets/c91ca146-0ed4-4cd1-ba0b-ac9d5131e926" />
+
+<div style="font-family: 'Fira Code', monospace; color: #98FF98;">
+
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap" rel="stylesheet"/>
+
+| Category | Tools |
+|----------|-------|
+| Network Simulation | Cisco Packet Tracer |
+| Packet Analysis | Wireshark |
+| Vulnerability Scanning | Nessus, OpenVAS, Nmap |
+| Endpoint Security | Windows Defender, PowerShell, Sysinternals |
+| Linux Security | Bash, chmod, iptables, auditd |
+| Cryptography | OpenSSL, GPG |
+| Malware Analysis | VirusTotal, online sandboxes |
+| Log Management | Syslog, centralized logging tools |
+| Frameworks | OWASP, NIST, CySA+ (CompTIA) |
+
+</div>
+
+
+
+---
+
 **TECH_STACK**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
