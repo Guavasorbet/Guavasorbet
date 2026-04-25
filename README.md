@@ -24,6 +24,13 @@
 </div>
 
 ---
+
+🧰 **TOOLS_TECHNOLOGIES**
+
+![Cybersecurity Tools](./tools-table.svg)
+
+---
+
 <div align="left">
 
 
@@ -32,11 +39,6 @@
 
 ![Streak](https://streak-stats.demolab.com?user=Guavasorbet&theme=tokyonight&ring=98FF98&fire=98FF98&currStreakLabel=98FF98&sideLabels=98FF98&dates=98FF98&hide_border=true)
 
----
-
-🧰 **TOOLS_TECHNOLOGIES**
-
-![Cybersecurity Tools](./tools-table.svg)
 
 ---
 
