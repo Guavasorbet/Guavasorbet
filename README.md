@@ -46,6 +46,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Planning+on+building+my+first+Security+tool%2C+suggestions+welcome" alt="bio2" />
 
 ---
+🏅**CERTIFICATION**
+
+[![Splunk Core Certified User](https://img.shields.io/badge/Splunk-Core%20Certified%20User-FF6B35?style=flat&logo=splunk&logoColor=white)](https://www.credly.com/badges/66a4c132-4adc-42e2-a63a-d7d7684260b5/public_url)
+
+---
 
 <div align="left">
 
