@@ -9,7 +9,6 @@
 
 ---
 
-### 📂 Directory: /root/guavasorbet/
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=400&lines=REBOOTING+SYSTEM...;ENCRYPTING+DATA+STREAMS...;WELCOME+TO+THE+NEURAL+NETWORK.)
 
 <div align="left">
@@ -23,15 +22,30 @@
 
 ---
 
+💻 **PORFOLIO**
+
+
+
+---
 🧰 **TOOLS_TECHNOLOGIES**
 
-![Cybersecurity Tools](./tools-table.svg)
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Network+Simulation____________Cisco+Packet+Tracer" alt="bio1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Packet+Analysis_______________Wireshark" alt="bio2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Vulnerability+Scanning________Nessus%2COpenVAS%2CNmap" alt="bio3" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Endpoint+Security_____________Windows+Defender%2CPowerShell%2CSysinternals" alt="bio4" />
+
+---
+
+🧠 **LOG_ENTRIES**
+
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Im+Currently+working+on+Cyberpunk+UI+Design" alt="bio1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Planning+on+building+my+first+Security+tool%2C+suggestions+welcome" alt="bio2" />
 
 ---
 
 <div align="left">
-
-
 
 📊 **TRANSMISSION_STATS**
 
@@ -40,7 +54,7 @@
 
 ---
 
-**TECH_STACK**
+💻 **TECH_STACK**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,14 +62,7 @@
 
 ---
 
-**LOG_ENTRIES**
-
-- 🔭 I'm currently working on **Cyberpunk UI Design**
-- ⚡ Fun fact: **"High tech, low life."**
-
----
-
-**CONNECT**
+📬 **CONNECT**
 
 <a href="https://www.linkedin.com/in/miguelmoralesr2d2">
   <img src="https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
