@@ -29,6 +29,8 @@
  
 [![Cybersecurity](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=Cybersecurity)](https://github.com/Guavasorbet/cybersecurity-projects/blob/main/README.md)
 
+[![Marketing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=Cybersecurity)](https://github.com/Guavasorbet/Marketing)
+
 ---
 
 🧰 **TOOLS_TECHNOLOGIES**
