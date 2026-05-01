@@ -25,9 +25,12 @@
 
 💼  **PORTFOLIO**
 
-[Cybersecurity](https://github.com/Guavasorbet/cybersecurity-projects/blob/main/README.md)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=400&lines=ACCESSING+FILES...)
+ 
+[![Cybersecurity](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=Cybersecurity)](https://github.com/Guavasorbet/cybersecurity-projects/blob/main/README.md)
 
 ---
+
 🧰 **TOOLS_TECHNOLOGIES**
 
 <div align="left">
