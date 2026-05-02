@@ -76,8 +76,6 @@
 
 ---
 
-<img width="1000" height="275" alt="Guava cruising through the city" src="https://github.com/user-attachments/assets/a333ae69-c619-4c7a-849e-50445e06f51f" />
-
 📬 **CONNECT**
 
 <a href="https://www.linkedin.com/in/miguelmoralesr2d2">
@@ -85,3 +83,6 @@
 </a>
 
 </div>
+
+<img width="1000" height="300" alt="guava cruising loop" src="https://github.com/user-attachments/assets/6938f54f-ec9b-4842-9017-a2832d5ea86f" />
+
