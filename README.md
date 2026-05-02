@@ -31,6 +31,8 @@
 
 [![Marketing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=Marketing)](https://github.com/Guavasorbet/Marketing)
 
+[![Photography](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=Photography)](https://github.com/Guavasorbet/Photography)
+
 ---
 
 🧰 **TOOLS_TECHNOLOGIES**
