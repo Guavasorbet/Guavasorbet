@@ -24,6 +24,8 @@
 
 
 💼  **PORTFOLIO**
+---
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=400&lines=ACCESSING+FILES...) 
 
@@ -36,6 +38,7 @@
 ---
 
 🧰 **TOOLS_TECHNOLOGIES**
+---
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Network+Simulation____________Cisco+Packet+Tracer" alt="bio1" />
@@ -47,6 +50,7 @@
 ---
 
 🧠 **LOG_ENTRIES**
+---
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Im+Currently+working+on+Cyberpunk+UI+Design" alt="bio1" />
@@ -54,6 +58,7 @@
 
 ---
 🏅**CERTIFICATION**
+---
 
 [![Splunk Core Certified User](https://img.shields.io/badge/Splunk-Core%20Certified%20User-FF6B35?style=flat&logo=splunk&logoColor=white)](https://www.credly.com/badges/66a4c132-4adc-42e2-a63a-d7d7684260b5/public_url)
 
@@ -62,6 +67,7 @@
 <div align="left">
 
 📊 **TRANSMISSION_STATS**
+---
 
 ![Streak](https://streak-stats.demolab.com?user=Guavasorbet&theme=tokyonight&ring=98FF98&fire=98FF98&currStreakLabel=98FF98&sideLabels=98FF98&dates=98FF98&hide_border=true)
 
@@ -69,6 +75,7 @@
 ---
 
 ⚙️ **TECH_STACK**
+---
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -77,6 +84,7 @@
 ---
 
 📬 **CONNECT**
+---
 
 <a href="https://www.linkedin.com/in/miguelmoralesr2d2">
   <img src="https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
