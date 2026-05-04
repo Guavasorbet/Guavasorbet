@@ -29,11 +29,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=400&lines=ACCESSING+FILES...) 
 
-[![Cybersecurity](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Cybersecurity_____Caffeinated+and+focus)](https://github.com/Guavasorbet/cybersecurity-projects/blob/main/README.md)
+[![Cybersecurity](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Cybersecurity_____Caffeinated+and+focus!)](https://github.com/Guavasorbet/cybersecurity-projects/blob/main/README.md)
 
-[![Marketing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Marketing_____elevating+your+brand)](https://github.com/Guavasorbet/Marketing)
+[![Marketing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Marketing_________elevating+your+brand.)](https://github.com/Guavasorbet/Marketing)
 
-[![Photography](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Hobby_____Everybody+needs+one!)](https://github.com/Guavasorbet/Photography)
+[![Photography](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Hobby_____________Everybody+needs+one!)](https://github.com/Guavasorbet/Photography)
 
 ---
 
