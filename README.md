@@ -13,8 +13,8 @@
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=700&lines=+%2F%2F+profile.bio+-+Clearance-level+%3D+public" alt="heading" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=A+joeboy+Neuromancer+with+a+hands-on+mindset+learning+the+art+of+readiness%2C+security%2C+defense%2C" alt="bio1" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=820&lines=+and+offense.+Nerd%2C+inspired+by+works+such+as+Akira%2C+Ghost+in+The+Shell+1995%2C+and+William+Gibson%27s+" alt="bio2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=A+joeboy+Neuromancer+with+a+hands-on+mindset+learning+the+ways+of+the+Cyberspace." alt="bio1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=820&lines=+Nerd%2C+inspired+by+works+such+as+Akira%2C+Ghost+in+The+Shell+1995%2C+and+William+Gibson%27s+" alt="bio2" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=850&lines=Neuromancer.+Living+and+bearing+witness+to+an+era+of+rapid+digital+evolution.+Business-minded%2C" alt="bio3" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=strategist%2C+photographer%2C+creative%2C+and+outdoors+adventurer+who+escapes+into+the+cyberspace.%3B" alt="bio4" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=700&lines=A+Neuromancer+who+loves+Guava+Sorbet." alt="bio5" />
