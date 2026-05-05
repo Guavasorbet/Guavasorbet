@@ -45,7 +45,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Packet+Analysis_______________Wireshark" alt="bio2" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Vulnerability+Scanning________Nessus%2C+OpenVAS%2C+Nmap%2C+Metasploit" alt="bio3" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+SIEM+and+Monitoring___________Splunk%2C+Wazuh" alt="bio4" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Endpoint+Security_____________Windows+Defender%2CPowerShell%2CSysinternals" alt="bio5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Endpoint+Security_____________Windows+Defender%2C+PowerShell%2C+Sysinternals" alt="bio5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Creative+and+Editing__________Adobe+Creative+Cloud%2C+Canva%2C+Gemini" alt="bio6" />
 
 ---
 
