@@ -35,6 +35,8 @@
 
 [![Photography](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+Hobby_____________Everybody+needs+one!)](https://github.com/Guavasorbet/Photography)
 
+[![DIY Projects](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999999&color=98FF98&repeat=false&width=800&lines=>+DIY_______________I'll+do+it+myself!)](https://github.com/Guavasorbet/retro-dbc)
+
 ---
 
 🧰 **TOOLS_TECHNOLOGIES**
